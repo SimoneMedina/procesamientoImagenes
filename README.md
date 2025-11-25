@@ -1,0 +1,2 @@
+# procesamientoImagenes
+Concurrente optimizado
