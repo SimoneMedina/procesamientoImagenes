@@ -1,2 +1,4 @@
 # procesamientoImagenes
-Concurrente optimizado
+CODIGOS:
+Concurrente sin optimizar
+Concurretente optimizado
